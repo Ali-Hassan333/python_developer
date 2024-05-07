@@ -1,0 +1,5 @@
+crewai==0.30.0rc3
+python-dotenv
+spacy
+streamlit
+crewai[tools]==0.30.0rc3 
