@@ -3,3 +3,4 @@ python-dotenv
 spacy
 streamlit
 crewai[tools]==0.30.0rc3 
+pysqlite3-binary
